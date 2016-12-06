@@ -9,6 +9,7 @@ Type 'make check' to test.
 
 Tested under FreeBSD, RedHat Linux, Mac OS X.
 Should compile fine on Win32, provided HAVE_MADVISE is undefined in the Makefile.
+
 Hasher extended: a template class is used as interface to the hashing library.
 New hashing libraries are added just by adding apropriate class headers.
 
